@@ -6,10 +6,6 @@ Maintain Wordpress Webiste
 [siangthai.com](https://www.siangthai.com/)
 [leera-in](https://leera-interior.com/) deploy on ruk-cloud.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llHorizonll)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llHorizonll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
@@ -31,6 +27,30 @@ Maintain Wordpress Webiste
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=llHorizonll&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llHorizonll/llHorizonll/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llHorizonll/llHorizonll/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/llHorizonll/llHorizonll/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:llHorizonll?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
 
 
 <!--
